@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I am from <br> **VENEZUELA** </P>
+<p>I am from <strong> VENEZUELA </strong> </P>
 
 <!--
 **JAGuerraCC/JAGuerraCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
