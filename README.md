@@ -2,6 +2,24 @@
 
 # **VENEZUELA**
 
+
+
+## Enlaces de interés
+
+- [Desarrollo Banesco](https://centipede_des)
+- [Desarrollo Contalfa](atr.vccontrol.com/(S(sbw2ojecrjyk0f55akz33ffl))/default.aspx)
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **JAGuerraCC/JAGuerraCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
