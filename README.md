@@ -7,7 +7,7 @@
 ## Enlaces de interés
 
 - [Desarrollo Banesco](https://centipede_des)
-- [Desarrollo Contalfa](atr.vccontrol.com/(S(sbw2ojecrjyk0f55akz33ffl))/default.aspx)
+- [Desarrollo Contalfa](atr.vccontrol.com/(S(sbw2ojecrjyk0f55akz33ffl))
 
 
 
