@@ -1,0 +1,35 @@
+
+
+
+
+
+
+/* Clear floats after the columns */
+
+
+        body {
+                background-color: rgba(138, 137, 137, 0.308);
+        }
+      
+        section::after  {
+                content: "";
+                display: table;
+                clear: both;
+               
+        }
+
+        article {
+                padding: 20px;
+                width: 95%;
+                background-color: #f1f1f1;
+                height: 300px; /* only for demonstration, should be removed */
+              }
+              
+/* pie */
+        footer {
+                background-color: #a3a2a2;
+                padding: 10px;
+                text-align: right;
+                font-family: "serif";
+                color: rgb(255, 255, 255);
+        }

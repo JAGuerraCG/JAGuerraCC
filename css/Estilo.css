@@ -1,0 +1,58 @@
+     /* titulos */
+
+     h1 {
+        color: rgb(255, 145, 0);
+        text-align: right;
+        
+    }
+
+    h2{
+        color: rgb(255, 94, 0);
+    }
+
+    h3 {
+        color: rgb(255, 94, 0);
+    }
+
+    
+    /* link */
+    a:link {
+        color:  rgb(255, 0, 0);
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:visited {
+        color: rgb(27, 113, 212);
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:hover {
+        color: rgb(255, 166, 0);
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:active {
+        color: rgb(255, 0, 0);
+        background-color: transparent;
+        text-decoration: underline;
+    }
+
+
+        
+    /* Create two columns/boxes that floats next to each other */
+    nav {
+        float: left;
+        width: 30%;
+        height: 300px; /* only for demonstration, should be removed */
+        background: #ccc;
+        padding: 20px;
+    }
+  
+  /* Style the list inside the menu */
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+   
+    
