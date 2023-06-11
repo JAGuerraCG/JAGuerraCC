@@ -4,15 +4,6 @@
 
 
 
-## Banesco
-
-- [Desarrollo Banesco](https://centipede_des)
-
-
-## Comtalfa
-- [Desarrollo Contalfa](http://atr.vccontrol.com/(S(ldrdr555agq3u1n01pybgyjs))/default.aspx)
-
-
 
 
 
